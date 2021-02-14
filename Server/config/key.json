@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false",
+    "adminUsername": "admin",
+    "adminPassword": "admin",
+    "adminId": "602939a7f74bae3c0c6a11a2",
+    "jwtSecret": "this is a secret key for jwt"
+}
